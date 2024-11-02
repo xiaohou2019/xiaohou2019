@@ -20,22 +20,29 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-## 🌟 项目
+README.md
+@@ -1,23 +1,23 @@
+## Hi there 👋<a href="https://github.com/iaohou2019u/"><img align="right" src="https://komarev.com/ghpvc/?username=iaohou2019u&label=Views" /></a>
+<!--
+**iaohou2019u/iaohou2019u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-### [项目1: AI图像识别](https://github.com/xiaohou2019/project1)
-利用深度学习实现的图像识别项目。主要技术：TensorFlow, Keras, Flask
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iaohou2019u&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iaohou2019u&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iaohou2019u&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iaohou2019u&theme=transparent)
 
-![项目1截图](https://github.com/xiaohou2019/project1/screenshot.png)
-
-### [项目2: 个人博客平台](https://github.com/xiaohou2019/project2)
-基于Node.js和React的个人博客平台，支持Markdown编辑和多用户管理。
-
-![项目2截图](https://github.com/xiaohou2019/project2/screenshot.png)
-
-### [项目3: 移动应用开发](https://github.com/xiaohou2019/project3)
-使用Flutter开发的跨平台移动应用，包含实时数据更新和通知功能。
-
-![项目3截图](https://github.com/xiaohou2019/project3/screenshot.png)
+<!--
+<a href="https://github.com/iaohou2019u/"><img height="130px" align="left" src="https://github-readme-stats.vercel.app/api/?username=iaohou2019u&show_icons=true&include_all_commits=true&locale=cn&theme=transparent&hide=prs" /></a>
 
 ## 📫 联系我
 
