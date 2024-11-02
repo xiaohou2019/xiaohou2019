@@ -1,8 +1,10 @@
-@@ -1,23 +1,23 @@
 ## Hi there 👋<a href="https://github.com/xiaohou2019/"><img align="right" src="https://komarev.com/ghpvc/?username=xiaohou2019&label=Views" /></a>
+
 <!--
 **xiaohou2019/xiaohou2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiaohou2019&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xiaohou2019&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xiaohou2019&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xiaohou2019&theme=transparent)
 
 <!--
 <a href="https://github.com/xiaohou2019/"><img height="130px" align="left" src="https://github-readme-stats.vercel.app/api/?username=xiaohou2019&show_icons=true&include_all_commits=true&locale=cn&theme=transparent&hide=prs" /></a>
+
+<a href="https://github.com/xiaohou2019/"><img height="130px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaohou2019&layout=compact&locale=cn&theme=transparent" /></a>
+-->
