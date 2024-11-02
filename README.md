@@ -20,7 +20,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-README.md
 @@ -1,23 +1,23 @@
 ## Hi there 👋<a href="https://github.com/iaohou2019u/"><img align="right" src="https://komarev.com/ghpvc/?username=iaohou2019u&label=Views" /></a>
 <!--
